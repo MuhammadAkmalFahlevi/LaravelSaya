@@ -49,4 +49,7 @@ untuk menjalankan program ini, jalankan perintah
 ```
 php artisan serve
 ```
+
+lalu nyalakan XAMPP 
+
 di root project, lalu buka http://localhost:127.0.0.1:8000/
